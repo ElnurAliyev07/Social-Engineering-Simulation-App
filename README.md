@@ -1,2 +1,3 @@
 # Social-Engineering-Simulation-App
 <img width="910" alt="Screenshot 2023-05-24 213336" src="https://github.com/ElnurAliyev07/Social-Engineering-Simulation-App/assets/115114253/80e93c7e-0eae-4c8c-b790-fd800351cc19">
+<img width="955" alt="Screenshot 2023-05-24 213456" src="https://github.com/ElnurAliyev07/Social-Engineering-Simulation-App/assets/115114253/ff4e3bb0-c570-4ee0-a126-efa54a1952dc">
