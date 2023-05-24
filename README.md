@@ -4,6 +4,7 @@ This is login register page
 
 The user is faced with social media windows after registration
 <img width="955" alt="Screenshot 2023-05-24 213456" src="https://github.com/ElnurAliyev07/Social-Engineering-Simulation-App/assets/115114253/ff4e3bb0-c570-4ee0-a126-efa54a1952dc">
+
 Example
 <img width="859" alt="Screenshot 2023-05-24 213549" src="https://github.com/ElnurAliyev07/Social-Engineering-Simulation-App/assets/115114253/6271a282-aa13-4d65-8aac-0e47b935ffda">
 
